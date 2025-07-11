@@ -10,6 +10,7 @@ langchain-core
 langchain-openai
 openai
 PyPDF2
+langchain-huggingface
 langchain_community
 python-docx
 unstructured
