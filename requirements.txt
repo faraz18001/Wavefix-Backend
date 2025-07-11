@@ -7,7 +7,8 @@ email-validator
 pydantic
 langchain
 langchain-core
- sentence-transformers
+
+sentence-transformers
 langchain-openai
 openai
 PyPDF2
