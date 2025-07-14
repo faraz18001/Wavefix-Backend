@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Virtual Environment
+.venv
+venv
+env
+*.pyc
+
+# Python cache
+__pycache__/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Local data / user uploads (if you don't want them in the image)
+# If your 'documents' folder on your machine has large files, add it here.
+# The `RUN mkdir -p documents` in your Dockerfile will create an empty one inside the container.
+documents/
+
+# OS / Misc
+.DS_Store
